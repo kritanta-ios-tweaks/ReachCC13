@@ -1,0 +1,9 @@
+Package: me.kritanta.reachcc13
+Name: ReachCC13
+Depends: mobilesubstrate
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Kritanta
+Author: Kritanta
+Section: Tweaks
