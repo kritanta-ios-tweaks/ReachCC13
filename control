@@ -3,7 +3,7 @@ Name: ReachCC13
 Depends: mobilesubstrate
 Version: 0.1.0
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: Activate CC Using Reachability Gesture
 Maintainer: Kritanta
 Author: Kritanta
 Section: Tweaks
